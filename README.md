@@ -1,4 +1,4 @@
-# Smarthings CLI Docker imaga
+Smarthings CLI Docker image
 
 This image contains all the requirements for smartthings-cli
 
