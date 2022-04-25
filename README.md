@@ -12,6 +12,8 @@ Access https://account.smartthings.com/tokens and save your token at session ./c
 docker build . -t smartthings
 ```
 
+## Usage
+
 ## Run
 Execute the following command to access a shell with smartthings cli binnary and all its dependencies installed.
 
